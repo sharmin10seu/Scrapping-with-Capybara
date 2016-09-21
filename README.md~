@@ -1,0 +1,8 @@
+# Parses https://github.com/apache/spark/stargazers using Capybara in headless mode
+
+## How to run the script(for this project directory)
+```
+sudo apt-get install xvfb
+bundle install
+ruby main.rb
+```
